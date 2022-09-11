@@ -1,4 +1,4 @@
-# ants
+#ants
 
 3rd project for UC Berkeley CS61A
 
